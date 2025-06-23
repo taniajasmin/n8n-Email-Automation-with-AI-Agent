@@ -5,16 +5,16 @@ An n8n workflow that allows an AI assistant to send personalized emails by acces
 ## Screenshots
 
 ### Workflow Configuration
-![Workflow Configuration]([https://i.imgur.com/your-image-url1.png](https://github.com/user-attachments/assets/ba2540fe-5245-4890-abf1-43deebe798e3))
+![Workflow Configuration]([https://i.imgur.com/your-image-url1.png](https://github.com/user-attachments/assets/ba2540fe-5245-4890-abf1-43deebe798e3).
 
 ### n8n Workflow
-![n8n Workflow]([https://i.imgur.com/your-image-url2.png](https://github.com/user-attachments/assets/180be9fa-2688-4deb-8606-81a2ce89d249))
+![n8n Workflow]([https://i.imgur.com/your-image-url2.png](https://github.com/user-attachments/assets/180be9fa-2688-4deb-8606-81a2ce89d249).
 
 ### Chat Interaction
 ![Chat Interaction](https://github.com/user-attachments/assets/d0acaeed-5419-43a1-8936-fa989732cb2e)
 
 ### Received Email
-![Received Email]([https://i.imgur.com/your-image-url4.png](https://github.com/user-attachments/assets/8d8aac00-d408-4573-a98c-fbbda9cd87ab))
+![Received Email]([https://i.imgur.com/your-image-url4.png](https://github.com/user-attachments/assets/8d8aac00-d408-4573-a98c-fbbda9cd87ab)
 
 
 ### Key Features
