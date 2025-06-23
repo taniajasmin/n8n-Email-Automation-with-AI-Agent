@@ -14,7 +14,7 @@ An n8n workflow that allows an AI assistant to send personalized emails by acces
 ![Chat Interaction](https://github.com/user-attachments/assets/d0acaeed-5419-43a1-8936-fa989732cb2e)
 
 ### Received Email
-![Received Email]([https://i.imgur.com/your-image-url4.png](https://github.com/user-attachments/assets/8d8aac00-d408-4573-a98c-fbbda9cd87ab)
+![Received Email](https://i.imgur.com/your-image-url4.png](https://github.com/user-attachments/assets/8d8aac00-d408-4573-a98c-fbbda9cd87ab)
 
 
 ### Key Features
